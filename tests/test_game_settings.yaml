@@ -1,0 +1,19 @@
+BACKGROUND_COLOR: !!python/tuple [0, 0, 0]
+GRID_COLOR: !!python/tuple [200, 200, 200]
+COUPON_COLOR: !!python/tuple [200, 200, 200]
+GRID_SIZE: !!python/tuple [450, 450]
+SCREEN_SIZE: !!python/tuple [1280, 720]
+N_SQUARES: !!python/tuple [15, 15]
+POINTEES_COLOR: !!python/tuple [0, 0, 225]
+BIRD_SIZE: !!python/tuple [75, 50]
+BIRD_START_POS: !!python/tuple [1000, 250]
+GRID_START_POS: !!python/tuple [400, 125]
+BIRD_PATH_TO_IMAGE: "helpers/game/bird.png"
+BIRD_MOVEMENT: "random"
+BIRD_SPEED: !!python/tuple [25, 5, 5, 5]
+POINTEES_RADIUS: 5
+REDEEM_COUPON_ROUND: 25
+SKIP_ROUNDS: [75]
+END_ROUND: 100
+N_POINTEES: 10
+FPS: 60
